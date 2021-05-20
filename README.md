@@ -1,6 +1,8 @@
 # VirusGraph
 To predict the virus cases by graph
 
+# To execute it now:
+[click here](https://replit.com/@JKCAT/corona-graph#main.py) to execute
 # Steps
 First choose anyone of the options
 1. GrowthFactor
